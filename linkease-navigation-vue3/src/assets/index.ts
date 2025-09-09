@@ -39,5 +39,4 @@ import TikTokImage from "./image/tikTok.png"
 export const IconTikTok: string = TikTokImage
 
 // 抖音直播二维码
-import liveImage from "./image/live.png"
-export const liveQrcode: string = liveImage
+export const liveQrcode = "https://assets.koolcenter.com/linkease/live.png"
